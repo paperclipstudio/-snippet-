@@ -1,0 +1,11 @@
+User Should be able to log on with username and passwored
+User should be able to create a new account with an email and passwored
+user should be able to add their name and age into there account
+User should be able to follow other people by there username
+User should be able to listen to the most resent audio by their friends
+User should be able to unfollow a given username
+User should be able to record a new audio and post it
+User should be able to upload a new audio and post it
+User should be able to replay a old post
+User should be able to play audio from one person
+User should be able to change there passwords
